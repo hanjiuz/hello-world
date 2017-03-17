@@ -1,0 +1,73 @@
+2017-03-10 22:57:26,899 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/pom.xml
+2017-03-10 22:57:27,981 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: person.hjz.study:javalang.helloworld:0.0.1-SNAPSHOT @ /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/pom.xml.
+2017-03-10 22:57:28,547 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javalang.helloworld/src/main/java
+2017-03-10 22:57:28,550 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javalang.helloworld/src/test/java
+2017-03-10 22:57:30,185 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-03-10 22:57:30,729 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-10 22:57:30,729 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-10 22:57:30,731 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-10 22:57:30,731 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-10 22:57:57,269 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-10 22:57:57,269 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-10 22:57:57,270 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-10 22:57:57,270 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-10 23:01:20,020 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-10 23:01:20,020 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-10 23:01:20,022 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-10 23:01:20,022 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:09:23,537 [Worker-945] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:09:23,539 [Worker-945] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:09:23,542 [Worker-945] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:09:23,542 [Worker-945] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:10:03,010 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:10:03,010 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:10:03,012 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:10:03,012 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:16:30,209 [Worker-958] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:16:30,211 [Worker-958] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:16:30,213 [Worker-958] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:16:30,213 [Worker-958] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:17:07,534 [Worker-954] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:17:07,535 [Worker-954] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:17:07,537 [Worker-954] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:17:07,537 [Worker-954] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:22:37,992 [Worker-953] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:22:37,993 [Worker-953] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:22:37,994 [Worker-953] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:22:37,994 [Worker-953] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:22:56,946 [Worker-960] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:22:56,947 [Worker-960] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:22:56,948 [Worker-960] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:22:56,949 [Worker-960] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:32:23,900 [Worker-959] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:23,901 [Worker-959] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:32:23,902 [Worker-959] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:23,903 [Worker-959] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:32:39,247 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:39,248 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:32:39,251 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:39,252 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:32:50,379 [Worker-957] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:50,382 [Worker-957] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:32:50,383 [Worker-957] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:50,384 [Worker-957] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:32:55,418 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:55,419 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:32:55,420 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:32:55,421 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:33:48,427 [Worker-956] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:33:48,428 [Worker-956] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:33:48,429 [Worker-956] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:33:48,430 [Worker-956] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 15:47:23,700 [Worker-965] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:47:23,703 [Worker-965] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 15:47:23,704 [Worker-965] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 15:47:23,704 [Worker-965] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 16:09:05,583 [Worker-982] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:05,584 [Worker-982] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 16:09:05,588 [Worker-982] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:05,588 [Worker-982] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources
+2017-03-17 16:11:03,351 [Worker-983] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:11:03,351 [Worker-983] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/main/resources
+2017-03-17 16:11:03,353 [Worker-983] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:11:03,353 [Worker-983] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hjz/dev/github-repo/hello-world/javalang.helloworld/src/test/resources

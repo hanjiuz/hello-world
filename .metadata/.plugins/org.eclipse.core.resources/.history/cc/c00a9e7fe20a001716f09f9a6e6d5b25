@@ -1,0 +1,38 @@
+package person.hjz.study.javalang.helloworld;
+
+import java.lang.ref.ReferenceQueue;
+import java.lang.ref.WeakReference;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        App myApp = new App();
+        myApp.testWeakRef();
+        
+    }
+    
+    public void testWeakRef()
+    {
+    	Object obj = new Object();
+    	ReferenceQueue<Object> refQueue = new ReferenceQueue<Object>();
+    	
+    	WeakReference<Object> weakRef = new WeakReference<Object>(obj, refQueue);
+    	
+    	System.out.println(weakRef.get());
+    	System.out.println(refQueue.poll());
+    	
+    	obj = null;
+    	System.gc();
+    	
+    	System.out.println(weakRef.get());
+    	System.out.println(refQueue.poll());
+    	
+    }
+}
