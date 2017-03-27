@@ -1,4 +1,4 @@
-package person.hjz.study.javalang.helloworld;
+package hjz.java.lang;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;

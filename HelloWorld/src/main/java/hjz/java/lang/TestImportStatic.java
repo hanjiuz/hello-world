@@ -1,4 +1,4 @@
-package person.hjz.study.javalang.helloworld;
+package hjz.java.lang;
 
 import static java.lang.System.out;
 import static java.lang.Integer.MAX_VALUE;

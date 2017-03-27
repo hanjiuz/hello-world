@@ -1,4 +1,4 @@
-package person.hjz.study.javalang.helloworld;
+package hjz.java.lang;
 
 import java.lang.ref.PhantomReference;
 import java.lang.ref.ReferenceQueue;

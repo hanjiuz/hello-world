@@ -1,4 +1,4 @@
-package person.hjz.study.javalang.helloworld;
+package hjz.java.lang;
 
 import java.io.File;
 import java.io.FileNotFoundException;
