@@ -1,4 +1,4 @@
-package hjz.java.lang;
+package hjz.lang;
 
 public class StaticProxyTest {
 	

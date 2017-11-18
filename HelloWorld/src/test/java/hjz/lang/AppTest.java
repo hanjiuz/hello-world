@@ -1,4 +1,4 @@
-package person.hjz.study.javalang.helloworld;
+package hjz.lang;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

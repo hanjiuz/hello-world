@@ -1,4 +1,4 @@
-package hjz.java.lang;
+package hjz.lang;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;

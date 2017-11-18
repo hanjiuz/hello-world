@@ -1,4 +1,4 @@
-package hjz.java.lang;
+package hjz.concurrent;
 
 public class VolatileTest {
 	

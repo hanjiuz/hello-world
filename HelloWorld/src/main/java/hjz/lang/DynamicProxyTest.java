@@ -1,4 +1,4 @@
-package hjz.java.lang;
+package hjz.lang;
 
 import java.io.File;
 import java.io.FileNotFoundException;

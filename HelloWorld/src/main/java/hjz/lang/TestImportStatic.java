@@ -1,4 +1,4 @@
-package hjz.java.lang;
+package hjz.lang;
 
 import static java.lang.System.out;
 import static java.lang.Integer.MAX_VALUE;
