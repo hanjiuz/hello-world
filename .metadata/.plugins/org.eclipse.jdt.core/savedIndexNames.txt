@@ -1,7 +1,6 @@
 INDEX VERSION 1.130+/Users/hjz/dev/github-repo/hello-world/.metadata/.plugins/org.eclipse.jdt.core
 4126582827.index
 236295936.index
-3927879410.index
 2255771374.index
 2762063732.index
 3830854963.index

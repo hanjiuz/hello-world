@@ -4,5 +4,13 @@ ehthumbs.db
 Desktop.ini
 
 #Eclipse
-.metadata
-.recommenders
+.metadata/
+.recommenders/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+
